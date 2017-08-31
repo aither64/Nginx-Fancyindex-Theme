@@ -124,6 +124,10 @@ tr.e {
   background:#f7f7f7;
 }
 
+tr:nth-child(2n) {
+  background: none repeat scroll 0% 0% #f4f4f4;
+}
+
 th,td {
   padding:0.1em 0.5em;
 }
